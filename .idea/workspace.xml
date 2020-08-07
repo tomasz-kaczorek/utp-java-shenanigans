@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2243524b-2623-4151-a1af-5329f3d82fa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eMiHh7QW49NtmcMRYjoZOj3LAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="Application.Anagrams 1">
+    <configuration name="Anagrams 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Anagrams1.Main" />
+      <module name="UTP" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anagrams1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anagrams 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Anagrams2.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Anagrams2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bean" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bean.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Database" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Database.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Echo Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EchoServer.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EchoServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Executors " type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Executors.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Executors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extended List" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ExtendedList.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExtendedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File Visitor 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileVisitor1.Main" />
+      <module name="UTP" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileVisitor1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File Visitor 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FileVisitor2.Main" />
+      <module name="UTP" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileVisitor2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Generics.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambdas 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lambdas1.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambdas1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambdas 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lambdas2.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambdas2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maybe" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Maybe.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Maybe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting with Lambdas 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortingWithLambdas1.Main" />
+      <module name="UTP" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingWithLambdas1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting with Lambdas 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortingWithLambdas2.Main" />
+      <module name="UTP" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingWithLambdas2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Synchronization1.Main" />
+      <module name="UTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronization 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Synchronization2.Main" />
+      <module name="UTP" />
+      <option name="PROGRAM_PARAMETERS" value="First Second Third Fourth Fifth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Synchronization2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variadic Function" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="VariadicFunction.Main" />
+      <module name="UTP" />
+      <option name="PROGRAM_PARAMETERS" value="Warszawa 100 Kielce 200 Szczecin 300" />
+      <option name="VM_PARAMETERS" value="-Duser.home=./data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VariadicFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Anagrams 1" />
+      <item itemvalue="Application.Anagrams 2" />
+      <item itemvalue="Application.Bean" />
+      <item itemvalue="Application.Database" />
+      <item itemvalue="Application.Echo Server" />
+      <item itemvalue="Application.Executors " />
+      <item itemvalue="Application.Extended List" />
+      <item itemvalue="Application.File Visitor 1" />
+      <item itemvalue="Application.File Visitor 2" />
+      <item itemvalue="Application.Generics" />
+      <item itemvalue="Application.Lambdas 1" />
+      <item itemvalue="Application.Lambdas 2" />
+      <item itemvalue="Application.Maybe" />
+      <item itemvalue="Application.Sorting with Lambdas 1" />
+      <item itemvalue="Application.Sorting with Lambdas 2" />
+      <item itemvalue="Application.Synchronization 1" />
+      <item itemvalue="Application.Synchronization 2" />
+      <item itemvalue="Application.Variadic Function" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2243524b-2623-4151-a1af-5329f3d82fa0" name="Default Changelist" comment="" />
+      <created>1594137776464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594137776464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Project_Structure" timestamp="1594137793080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1594137793080" />
+    <state x="410" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596787083830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596787083830" />
+    <state x="557" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594907912044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594907912044" />
+    <state x="697" y="289" key="EnvironmentVariablesDialog" timestamp="1594218309872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="289" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594218309872" />
+    <state x="856" y="277" key="FileChooserDialogImpl" timestamp="1594719518408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594719518408" />
+    <state width="1876" height="272" key="GridCell.Tab.0.bottom" timestamp="1594932869739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594932869739" />
+    <state width="1876" height="272" key="GridCell.Tab.0.center" timestamp="1594932869739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594932869739" />
+    <state width="1876" height="272" key="GridCell.Tab.0.left" timestamp="1594932869739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594932869739" />
+    <state width="1876" height="272" key="GridCell.Tab.0.right" timestamp="1594932869739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594932869739" />
+    <state x="463" y="151" width="1226" height="738" key="SettingsEditor" timestamp="1594899587853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="151" width="1226" height="738" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594899587853" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1595091328916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595091328916" />
+    <state x="342" y="145" key="new project wizard" timestamp="1595091352996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595091352996" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594907649793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594907649793" />
+  </component>
+</project>
